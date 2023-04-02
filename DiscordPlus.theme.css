@@ -21,9 +21,9 @@
   --dplus-backdrop: url(https://preview.redd.it/vu35uslvmjha1.png?width=1920&format=png&auto=webp&v=enabled&s=b84ddd2011328fec85ab93bda954380aa98f4c4d);
 
 /* Accent color, used to decorate the UI with colors. */
-  --dplus-accent-color-hue: 320;
-  --dplus-accent-color-saturation: 60%;
-  --dplus-accent-color-lightness: 31%;
+  --dplus-accent-color-hue: 180;
+  --dplus-accent-color-saturation: 100%;
+  --dplus-accent-color-lightness: 60%;
 
 /* Foreground color: For things like text and icons. */
   --dplus-foreground-color-hue-base: 210;
